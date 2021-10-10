@@ -11,8 +11,8 @@ The purpose of this mobile delivery management system is to maintain data that i
 
 **ER Diagram:**
 
+![Screen Shot 2021-10-09 at 8 22 06 PM](https://user-images.githubusercontent.com/47196412/136677923-3216e505-1176-414d-8a2e-12ed9e268d9a.png)
 
-![Screen Shot 2021-09-27 at 7 18 38 PM](https://user-images.githubusercontent.com/47196412/136121579-b027f585-823c-4aac-8f3b-165b1845919d.png)
 
 
 **Major User Views:**
