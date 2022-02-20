@@ -19,3 +19,7 @@ The purpose of this mobile delivery management system is to maintain data that i
 
 
 <img width="834" alt="Screen Shot 2021-10-05 at 8 53 17 PM" src="https://user-images.githubusercontent.com/47196412/136128331-72094e05-895c-4f7d-b1a0-dd567212f9d7.png">
+
+**Relational Models:**
+
+![Screen Shot 2022-02-20 at 12 13 28 PM](https://user-images.githubusercontent.com/47196412/154857527-9b444d7a-0bc2-4962-b2d9-3fdaa6a63a9e.png)
